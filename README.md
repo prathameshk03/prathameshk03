@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prathameshk03
 - 👀 I’m interested in basically anything!
-- 🌱 I’m currently pursuing IT Engineering
+- 🌱 I’m currently pursuing Masters in Computer Science at University of Texas at Dallas
 - 💞️ I’m looking to collaborate on any projects!
 
 
